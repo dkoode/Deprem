@@ -1,0 +1,2 @@
+# Deprem
+Resmi Deprem Bilgileri
